@@ -157,7 +157,7 @@ function exce() {
 exce()
 ```
 > 1. undefined  2. 100  3. 200
-- 重點： **function 的 hosting(提升)會優先於 var 宣告**，故 `exce()` 執行時，x 尚未被宣告變量，所以回傳 undefined
+- 重點： **function 的 hoisting(提升)會優先於 var 宣告**，故 `exce()` 執行時，x 尚未被宣告變量，所以回傳 undefined
 
 
 ### 上機考
