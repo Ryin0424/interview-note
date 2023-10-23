@@ -174,7 +174,7 @@ mirrorNumber(1234321)  // false，1234 的鏡像不為 321
 mirrorNumber(1111)  // true，11 的鏡像為 11
 mirrorNumber(971451154179)  // 971451 的鏡像為 154179
 ```
-- [作答](https://jsbin.com/qajacereye/1/edit?js,console)
+- [作答](https://jsbin.com/vilucexulu/1/edit?js,console)
 
 
 #### 邏輯判斷
